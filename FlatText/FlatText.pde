@@ -1,6 +1,6 @@
 //fullScreen();
 size(500, 600);
-String title= "Wahoo!";
+String title= "Wahoo! Dean Elbery";
 PFont titleFont;
 //String[] fontList = PFont.list(); //To list all fonts available on system
 println("Start of Console");
